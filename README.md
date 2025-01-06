@@ -11,17 +11,17 @@ Where/how do I save?
 
 # Implementation Criteria 
 - Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Made sure data is consistent and clean concerning data type, data format, and values used.
 - Created Tables and made the relations between the tables to get the accurate results
-- Merge all reports into one dashboard and apply slicer to make dynamic.  
+- Merge all reports into one dashboard and apply a slicer to make it dynamic.  
 
 # Project Insights  
-~ My net worth is ₹3.07M, calculated as the difference between total income and total expenses over the analyzed period.  
-~ House rent accounts for the largest share (37.19%), followed by groceries (25.79%) and EMIs (19.69%).  
-~ Savings consistently hover around 71%, which aligns with targets. However, there may be slight deviations during certain months due to seasonal variations or unplanned expenses.  
-~ September is the bad month and remaining all are financially good months.  
-~ I spent most of the Income on House Rent and Groceries.  
-~ I saved most of my money as Liquid cash and Mutual Funds.  
+- My net worth is ₹3.07M, calculated as the difference between total income and total expenses over the analyzed period.  
+- House rent accounts for the largest share (37.19%), followed by groceries (25.79%) and EMIs (19.69%).  
+- Savings consistently hover around 71%, which aligns with targets. However, there may be slight deviations during certain months due to seasonal variations or unplanned expenses.  
+- September is the bad month and the remaining all are financially good months.  
+- I spent most of the Income on House Rent and Groceries.  
+- I saved most of my money as Liquid cash and Mutual Funds.  
 
 # Conclusion
-These spending patterns and insights suggests that while the savings are on track, there's an opportunity to optimize spending on non-essential items and diversify savings into higher-yielding  sources.
+These spending patterns and insights suggest that while the savings are on track, there's an opportunity to optimize spending on non-essential items and diversify savings into higher-yielding  sources.
