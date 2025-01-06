@@ -17,7 +17,7 @@ Where/how do I save?
 
 # Project Insights  
 - My net worth is ₹3.07M, calculated as the difference between total income and total expenses over the analyzed period.  
-- House rent accounts for the largest share (37.19%), followed by groceries (25.79%) and EMIs (19.69%).  
+- House Rent accounts for the largest share (37.19%), followed by Groceries (25.79%) and EMIs (19.69%).  
 - Savings consistently hover around 71%, which aligns with targets. However, there may be slight deviations during certain months due to seasonal variations or unplanned expenses.  
 - September is the bad month and the remaining all are financially good months.  
 - I spent most of the Income on House Rent and Groceries.  
